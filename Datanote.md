@@ -40,9 +40,9 @@ IV.	Nigeria Settlement Data: [GRID3 NGA – Settlement Extents v4.1 (August 2026
 
 V.	Nigeria Road Data: OSM plugin in QGIS
 
-Ward Level: Admin 3\n
-LGA level: Admin 2\n
-State level: Admin 1\n
+Ward Level: Admin 3  
+LGA level: Admin 2  
+State level: Admin 1  
 
 ## What would I build:
 An Interactive map of Lagelu and Ibadan North LGA, Ibadan, Oyo state that shows the settlement extent and urbanization trend from 2020 till present. The map would be updated monthly or as new data becomes available and can be used by any interested users.
