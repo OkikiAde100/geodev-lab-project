@@ -1,4 +1,4 @@
-# PROJECT BREIF
+# DATA NOTE
 How much has the built-up area of Lagelu and Ibadan North expanded since 2020?
 Study area is Lagelu and Ibadan North LGAs, Ibadan, Oyo State.
 
