@@ -15,6 +15,7 @@ What Built up area, Small Settlement and Hamlet area are located 750 meters to a
 ## 3. Expectation vs Result
 I expected to see which settlements and also inspect the number of settlements that are within 750 meters of well or properly constructed roads by settlement type within the Lagelu & Ibadan North LGA.
 I was able to achieve the settlements within the 750 meter buffer road range by settlement type within the Lagelu & Ibadan North LGA but not the number of settlements.
+[Final result](https://github.com/OkikiAde100/geodev-lab-project/blob/main/Lagelu_Ibadan%20North%20-%20750m%20Well%20constructed%20Road%20Settlement.png)
 
 ## 4. What Surprised me
 None for now
