@@ -18,6 +18,7 @@ See [project-brief.md](https://github.com/OkikiAde100/geodev-lab-project/blob/ma
 ## Month 2: Development Environment & Early Python
 
 - Week 5: Set up Python, VS Code and the terminal. hello.py runs.
+  
   |SN|Deliverables|Link|
   |---|---|---|
   |1|hello.py|[hello.py](https://github.com/OkikiAde100/geodev-lab-project/blob/main/hello.py)|
