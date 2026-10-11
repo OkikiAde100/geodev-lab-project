@@ -23,3 +23,5 @@ See [project-brief.md](https://github.com/OkikiAde100/geodev-lab-project/blob/ma
   |---|---|---|
   |1|hello.py|[hello.py](https://github.com/OkikiAde100/geodev-lab-project/blob/main/hello.py)|
   |2|screenshots-week5|[screenshots-week5](https://github.com/OkikiAde100/geodev-lab-project/blob/main/screenshots/Screenshot-week5.png)|
+
+- Week 6: set up the project with uv and added pandas. check.py prints the pandas version
