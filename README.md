@@ -26,3 +26,4 @@ See [project-brief.md](https://github.com/OkikiAde100/geodev-lab-project/blob/ma
 
 - Week 6: set up the project with uv and added pandas. check.py prints the pandas version
 - Week 7: Analyse.py reads wards.csv, converts each area and classifies each ward.
+- Week 8: inspect_data.py summarises depth and yield in my Lagelu & Ibadan North LGA settlements Extents.
