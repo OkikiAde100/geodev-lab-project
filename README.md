@@ -29,5 +29,5 @@ See [project-brief.md](https://github.com/OkikiAde100/geodev-lab-project/blob/ma
 - Week 8: inspect_data.py summarises depth and yield in my Lagelu & Ibadan North LGA settlements Extents.
 - Week 9: refactorized my summary data code to be much better and understandable
   
-  ## Month 2 Reflection
+## Month 2 Reflection
 This month really helped me remember the basic concepts of python and it's use in data analysis and manipulation. The ideas were well explained and I understood why they were used and when to apply them. The capstone tells me that with a well written code my month 1 data could be analyzed cleanly and produce a good report despite any changes or update that may have been made to the data.
